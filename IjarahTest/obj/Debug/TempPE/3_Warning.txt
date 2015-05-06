@@ -1,0 +1,8 @@
+
+BLOCKED FILE ALERT
+
+A file has been blocked due to the 'Block Attachments' rule.
+Context: 'My Project.Resources.Designer.vb.dll'
+Disallowed due to 
+Ticket Number: '08b4-5533-afb5-0002'
+Contact BTD-CSD-MESSAGING ADMIN for further information.CSD-MESSAGING ADMINCSD/BTD
